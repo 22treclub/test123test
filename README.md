@@ -1,3 +1,5 @@
+fork because im lazy, props to SevenworksDev
+
 # tProxy v2
 ## Whats new in v2?
 - New looks  
